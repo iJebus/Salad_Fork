@@ -166,16 +166,18 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * Frame assembly from previous step
 * 1 extrusion G
 * 1 extrusion C (with Z rail attached)
-* 2 M3x8 BHCS
-* 14 M3 nuts 
+* 3 M3x8 BHCS
+* 16 M3 nuts 
   
 **Steps:**
-1. Add one M3x8 BHCS into each end of the G extrusion, leaving about 2mm clearance 
-2. Add 8 M3 nuts to the bottom of the G extrusion
-3. Add 2 M3 nuts to the back of the G extrusion
-3. Add 2 M3 nuts to the front of the G extrusion
-4. Add 4 M3 nuts to the top of the G extrusion. Three of these should be on the left half, and one on the right half.
-5. Attach the C extrusion to the middle of the G extrusion
+1. Add one M3x8 BHCS into each end of the G extrusion, leaving about 2mm clearance
+2. Add one M3x8 BHCS into the bottom of the C extrusion, leaving about 2mm clearance
+3. Add 8 M3 nuts to the bottom of the G extrusion
+4. Add 2 M3 nuts to the back of the G extrusion
+5. Add 2 M3 nuts to the front of the G extrusion
+6. Attach the C extrusion to the middle of the G extrusion
+7. Add 4 M3 nuts to the top of the G extrusion. Three of these should be on the left half, and one on the right half.
+
    
 ![](images/rear_z_assembly.png)
 
